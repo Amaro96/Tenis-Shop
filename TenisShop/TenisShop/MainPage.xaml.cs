@@ -16,6 +16,7 @@ namespace TenisShop
         public MainPage()
         {
             InitializeComponent();
+            BindingContext = new MainViewModel();
         }
     }
 }

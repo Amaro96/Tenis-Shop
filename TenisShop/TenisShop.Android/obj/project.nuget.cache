@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EhEeRVrIXzpzkPWpP8dljpQJmtIqTTJuUAh05R6/QUCOCqtLbpD60UBE1Pll5MB47sWjcosUxut1v1/gLLQYuA==",
+  "dgSpecHash": "NuQntBjILO2RzWzXKVmSa8MvRqrdvjJIjmLmR5FvsxSwofQaGheRvUu0hYYmZzmbbX7LUjkGy1H9KsaHtW2zrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\amaro.manungu\\source\\repos\\TenisShop\\TenisShop\\TenisShop.Android\\TenisShop.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amaro.manungu\\.nuget\\packages\\forms.controls.swipecards\\0.4.3-pre\\forms.controls.swipecards.0.4.3-pre.nupkg.sha512",
     "C:\\Users\\amaro.manungu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\amaro.manungu\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\amaro.manungu\\.nuget\\packages\\mltoolkit.forms.swipecardview\\2.1.0\\mltoolkit.forms.swipecardview.2.1.0.nupkg.sha512",
     "C:\\Users\\amaro.manungu\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\amaro.manungu\\.nuget\\packages\\syncfusion.licensing\\18.1.0.52\\syncfusion.licensing.18.1.0.52.nupkg.sha512",
     "C:\\Users\\amaro.manungu\\.nuget\\packages\\syncfusion.xamarin.cards\\18.1.0.52\\syncfusion.xamarin.cards.18.1.0.52.nupkg.sha512",

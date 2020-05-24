@@ -57,6 +57,9 @@
     <PackageReference Include="Forms.Controls.SwipeCards">
       <Version>0.4.3-pre</Version>
     </PackageReference>
+    <PackageReference Include="MLToolkit.Forms.SwipeCardView">
+      <Version>2.1.0</Version>
+    </PackageReference>
     <PackageReference Include="Syncfusion.Xamarin.Cards">
       <Version>18.1.0.52</Version>
     </PackageReference>
@@ -95,13 +98,28 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\drawable\" />
+    <AndroidResource Include="Resources\drawable\ccv.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TenisShop\TenisShop.csproj">
       <Project>{4793EFA6-CA84-4145-814C-E74F2C1ECD1C}</Project>
       <Name>TenisShop</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\adidas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Nike.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Nikes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\ccvr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\User.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

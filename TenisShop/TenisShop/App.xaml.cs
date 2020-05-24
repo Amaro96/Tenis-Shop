@@ -11,6 +11,7 @@ namespace TenisShop
             InitializeComponent();
 
             MainPage = new MainPage();
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MjYyMDQ2QDMxMzgyZTMxMmUzMG9CWlZNby9PemJ2S08zaWgxb3BSTjVrWno5K2tQNFlXQWJXdlg3QWRRSmc9");
         }
 
         protected override void OnStart()

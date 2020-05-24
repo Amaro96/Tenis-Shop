@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[0.4.3-pre, )"
             },
+            "MLToolkit.Forms.SwipeCardView": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "Syncfusion.Xamarin.Cards": {
               "target": "Package",
               "version": "[18.1.0.52, )"
@@ -107,6 +111,10 @@
             "Forms.Controls.SwipeCards": {
               "target": "Package",
               "version": "[0.4.3-pre, )"
+            },
+            "MLToolkit.Forms.SwipeCardView": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

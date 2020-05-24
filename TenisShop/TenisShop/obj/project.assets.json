@@ -33,6 +33,18 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "MLToolkit.Forms.SwipeCardView/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "4.2.0.848062"
+        },
+        "compile": {
+          "lib/netstandard2.0/MLToolkit.Forms.SwipeCardView.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MLToolkit.Forms.SwipeCardView.dll": {}
+        }
+      },
       "NETStandard.Library/2.0.3": {
         "type": "package",
         "dependencies": {
@@ -200,6 +212,18 @@
         "microsoft.netcore.targets.1.1.0.nupkg.sha512",
         "microsoft.netcore.targets.nuspec",
         "runtime.json"
+      ]
+    },
+    "MLToolkit.Forms.SwipeCardView/2.1.0": {
+      "sha512": "zWEth8xhaWNcJU1kheDYdNi8Qy3wtoUV5YO8BtNgXoA+sN6wBNkXbLhdDl5+AkisTBZf9qS+WR0SA3IjfzRvwg==",
+      "type": "package",
+      "path": "mltoolkit.forms.swipecardview/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MLToolkit.Forms.SwipeCardView.dll",
+        "mltoolkit.forms.swipecardview.2.1.0.nupkg.sha512",
+        "mltoolkit.forms.swipecardview.nuspec"
       ]
     },
     "NETStandard.Library/2.0.3": {
@@ -937,6 +961,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "Forms.Controls.SwipeCards >= 0.4.3-pre",
+      "MLToolkit.Forms.SwipeCardView >= 2.1.0",
       "NETStandard.Library >= 2.0.3",
       "Syncfusion.Xamarin.Cards >= 18.1.0.52",
       "Xamarin.Essentials >= 1.3.1",
@@ -989,6 +1014,10 @@
           "Forms.Controls.SwipeCards": {
             "target": "Package",
             "version": "[0.4.3-pre, )"
+          },
+          "MLToolkit.Forms.SwipeCardView": {
+            "target": "Package",
+            "version": "[2.1.0, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",

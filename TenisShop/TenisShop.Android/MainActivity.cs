@@ -20,6 +20,8 @@ namespace TenisShop.Droid
             base.OnCreate(savedInstanceState);
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MjYyMDQ2QDMxMzgyZTMxMmUzMG9CWlZNby9PemJ2S08zaWgxb3BSTjVrWno5K2tQNFlXQWJXdlg3QWRRSmc9");
+
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }

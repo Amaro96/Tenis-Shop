@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "TenisShop.Android.dll" comes first in this list. */
 		"TenisShop.Android.dll",
 		"FormsViewGroup.dll",
+		"MLToolkit.Forms.SwipeCardView.dll",
 		"SwipeCards.Controls.dll",
 		"Syncfusion.Cards.XForms.Android.dll",
 		"Syncfusion.Cards.XForms.dll",

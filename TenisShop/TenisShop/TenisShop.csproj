@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <PackageReference Include="Forms.Controls.SwipeCards" Version="0.4.3-pre" />
+    <PackageReference Include="MLToolkit.Forms.SwipeCardView" Version="2.1.0" />
     <PackageReference Include="Syncfusion.Xamarin.Cards" Version="18.1.0.52" />
     <PackageReference Include="Xamarin.Forms" Version="4.4.0.991265" />
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
