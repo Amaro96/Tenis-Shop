@@ -1,16 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             mc:Ignorable="d"
-             x:Class="TenisShop.MainPage">
+<ContentPage
+    x:Class="TenisShop.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:pancakeview="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+    Title="Discover"
+    mc:Ignorable="d">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+    <pancakeview:PancakeView BackgroundColor="#8F2FEE" VerticalOptions="FillAndExpand">
 
+        <StackLayout VerticalOptions="Fill">
+            <StackLayout Margin="0,0,0,150" VerticalOptions="Start" />
+            <pancakeview:PancakeView
+                BackgroundColor="#412759"
+                CornerRadius="0,100,0,0"
+                HeightRequest=" 300"
+                VerticalOptions="FillAndExpand" />
+        </StackLayout>
+    </pancakeview:PancakeView>
 </ContentPage>

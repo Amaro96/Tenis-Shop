@@ -1,0 +1,14 @@
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\bin\Debug\netstandard2.0\TenisShop.deps.json
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\bin\Debug\netstandard2.0\TenisShop.dll
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\bin\Debug\netstandard2.0\ref\TenisShop.dll
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\bin\Debug\netstandard2.0\TenisShop.pdb
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\TenisShop.csprojAssemblyReference.cache
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\TenisShop.csproj.CoreCompileInputs.cache
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\TenisShop.AssemblyInfoInputs.cache
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\TenisShop.AssemblyInfo.cs
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\TenisShop.dll
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\ref\TenisShop.dll
+C:\Users\amaro.manungu\source\repos\TenisShop\TenisShop\TenisShop\obj\Debug\netstandard2.0\TenisShop.pdb
